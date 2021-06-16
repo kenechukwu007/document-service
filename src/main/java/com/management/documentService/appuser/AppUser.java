@@ -1,4 +1,4 @@
-package com.example.demo.appuser;
+package com.management.documentService.appuser;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -37,7 +37,8 @@ public class AppUser implements UserDetails {
     private Boolean locked;
     private Boolean enabled;
 
-    public AppUser(String firstName, String lastName, String email, String password, AppUserRole appUserRole, Boolean locked
+    public AppUser(String firstName, String lastName, String email, String password,
+                   AppUserRole appUserRole, Boolean locked
             , Boolean enabled) {
         this.Firstname = firstName;
         this.Lastname = lastName;

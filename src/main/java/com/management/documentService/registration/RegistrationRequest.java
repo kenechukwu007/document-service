@@ -1,4 +1,4 @@
-package com.example.demo.registration;
+package com.management.documentService.registration;
 
 import lombok.*;
 

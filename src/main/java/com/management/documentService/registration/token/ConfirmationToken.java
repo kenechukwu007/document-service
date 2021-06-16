@@ -1,6 +1,6 @@
-package com.example.demo.registration.token;
+package com.management.documentService.registration.token;
 
-import com.example.demo.appuser.AppUser;
+import com.management.documentService.appuser.AppUser;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

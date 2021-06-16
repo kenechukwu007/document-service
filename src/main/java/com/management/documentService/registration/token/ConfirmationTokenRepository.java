@@ -1,4 +1,4 @@
-package com.example.demo.registration.token;
+package com.management.documentService.registration.token;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

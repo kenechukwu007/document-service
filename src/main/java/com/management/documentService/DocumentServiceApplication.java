@@ -1,15 +1,15 @@
-package com.example.demo;
+package com.management.documentService;
 
-import com.example.demo.security.config.WebSecurityConfig;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class DocumentServiceApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(DocumentServiceApplication.class, args);
 
 	}
 

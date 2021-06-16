@@ -1,4 +1,4 @@
-package com.example.demo.registration;
+package com.management.documentService.registration;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

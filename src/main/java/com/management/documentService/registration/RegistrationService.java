@@ -1,8 +1,8 @@
-package com.example.demo.registration;
+package com.management.documentService.registration;
 
-import com.example.demo.appuser.AppUser;
-import com.example.demo.appuser.AppUserRole;
-import com.example.demo.appuser.AppUserService;
+import com.management.documentService.appuser.AppUser;
+import com.management.documentService.appuser.AppUserRole;
+import com.management.documentService.appuser.AppUserService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
